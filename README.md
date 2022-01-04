@@ -14,6 +14,6 @@ Hi there 👋
 
 <div align="center">
    <a href="https://discord.com/users/924713637447348285" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/289425704305819660">
+      <img src="https://lanyard-profile-readme.vercel.app/api/924713637447348285">
    </a>
 </div>
